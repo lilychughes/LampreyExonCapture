@@ -17,10 +17,8 @@ The general pipeline based on ray-finned fish reference sequences is described i
 
 ## Files
 1. PetromyzonFishLife.fa
-   Reference sequences for targeted based on the *Petromyzon marinus* genome for aTRAM.
-
+> Reference sequences for targeted based on the *Petromyzon marinus* genome for aTRAM.
 2. Run-aTRAM.py
-   After quality trimming raw reads with Trimmomatic, this script runs the aTRAM pipeline using Trinity as the assembler.
-
+> After quality trimming raw reads with Trimmomatic, this script runs the aTRAM pipeline using Trinity as the assembler.
 3. Post-aTRAM-Filtering.py
-   Runs cd-hit to get the longest assembled sequences, and exonerate to find ORFs. These filtering steps are described in Hughes _et al._ (2021).
+> Runs cd-hit to get the longest assembled sequences, and exonerate to find ORFs. These filtering steps are described in Hughes _et al._ (2021).
