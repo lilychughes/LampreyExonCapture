@@ -2,7 +2,8 @@
 
 ## About
 This code is for the data assembly steps of the following paper:
->(currently anonymized for peer review)
+> Hughes, L.C., Bloom, D.B., Piller, K.R., Lang, N., Mayden, R.L. Phylogenomic Resolution of Lampreys Reveals the Recent Evolution of an Ancient Vertebrate Lineage. Accepted. Proceedings of the Royal Society B: Biological Sciences.
+
 
 The general pipeline based on ray-finned fish reference sequences is described in:
 > Hughes, L.C., Ortí, G., Saad, H., Chenhog, L., White, W.T., Baldwin, C.C., Crandall, K.A., Arcila, D., and Betancur-R., R. 2021. Exon probe sets and bioinformatics pipelines for all levels of fish phylogenomics. *Molecular Ecology Resources*, 21(3):816-833. DOI:10.1111/1755-0998.13287
