@@ -2,7 +2,7 @@
 
 ## About
 This code is for the data assembly steps of the following paper:
-> Hughes, L.C., Bloom, D.B., Piller, K.R., Lang, N., Mayden, R.L. Phylogenomic Resolution of Lampreys Reveals the Recent Evolution of an Ancient Vertebrate Lineage. Accepted. Proceedings of the Royal Society B: Biological Sciences.
+> Hughes, L.C., Bloom, D.B., Piller, K.R., Lang, N., Mayden, R.L. Phylogenomic Resolution of Lampreys Reveals the Recent Evolution of an Ancient Vertebrate Lineage. Accepted. *Proceedings of the Royal Society B: Biological Sciences.*
 
 
 The general pipeline based on ray-finned fish reference sequences is described in:
